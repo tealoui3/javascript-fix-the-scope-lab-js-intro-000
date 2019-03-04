@@ -27,4 +27,3 @@ var function() = 'FUNKY!'
 function funkyFunction() {
   return function()
 }
-var theFunk = funkyFunction()
